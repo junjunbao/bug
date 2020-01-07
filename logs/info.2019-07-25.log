@@ -1,0 +1,22 @@
+2019-07-25 13:26:52,785 [main] INFO  com.boot.serviceTest.UserServiceTest - Starting UserServiceTest on dongbenqiang-PC with PID 14820 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-25 13:26:52,786 [main] INFO  com.boot.serviceTest.UserServiceTest - No active profile set, falling back to default profiles: default
+2019-07-25 13:26:53,023 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1750fbeb: startup date [Thu Jul 25 13:26:53 CST 2019]; root of context hierarchy
+2019-07-25 13:26:53,136 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-25 13:26:54,688 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@1750fbeb: startup date [Thu Jul 25 13:26:53 CST 2019]; root of context hierarchy
+2019-07-25 13:26:54,749 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/]}" onto java.lang.String com.boot.web.MainController.home()
+2019-07-25 13:26:54,751 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user]}" onto public java.lang.String com.boot.web.UserController.getIndex(org.springframework.ui.Model)
+2019-07-25 13:26:54,752 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-07-25 13:26:54,752 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-25 13:26:54,773 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-25 13:26:54,774 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-25 13:26:54,805 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-25 13:26:55,340 [main] INFO  com.boot.serviceTest.UserServiceTest - Started UserServiceTest in 3.047 seconds (JVM running for 3.87)
+2019-07-25 13:26:56,024 [main] INFO  com.boot.serviceTest.UserServiceTest - 查找结果User [userId=10, userName=apple, userPassword=uih6, userEmail=ff@qq.com]
+2019-07-25 13:26:56,030 [Thread-2] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1750fbeb: startup date [Thu Jul 25 13:26:53 CST 2019]; root of context hierarchy
+2019-07-25 13:30:10,581 [main] INFO  com.boot.serviceTest.UserServiceTest - Starting UserServiceTest on dongbenqiang-PC with PID 17060 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-25 13:30:10,583 [main] INFO  com.boot.serviceTest.UserServiceTest - No active profile set, falling back to default profiles: default
+2019-07-25 13:30:10,770 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@5b247367: startup date [Thu Jul 25 13:30:10 CST 2019]; root of context hierarchy
+2019-07-25 13:30:10,853 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-25 13:30:11,737 [main] INFO  o.s.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.

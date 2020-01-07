@@ -1,0 +1,27 @@
+spring:
+  thymeleaf:
+    mode: HTML5
+    encoding: UTF-8
+    content-type: text/html
+    # 开发禁用缓存
+    cache: false
+  datasource:
+    url: jdbc:mysql://localhost:3306/demo-test?characterEncoding=UTF-8&useSSL=true
+    username: root
+    password: root
+    # 可省略驱动配置, sprin-boot 会由url检测出驱动类型
+    # driver-class-name: com.mysql.jdbc.Driver
+    hikari:
+      connection-timeout: 60000 
+mybatis:
+  # 搜索指定包别名
+  #typeAliasesPackage: com.boot.domain
+  # 配置mapper的扫描，找到所有的mapper.xml映射文件
+  mapperLocations: classpath:mybatis/mapper/*Mapper.xml
+  # 加载全局的配置文件
+  configLocation: classpath:mybatis/config/mybatis-config.xml
+
+# spring-boot默认打印输出info级别以上的，可在此处修改输出级别
+logging:
+  level:
+    root: info

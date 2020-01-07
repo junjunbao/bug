@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b14f6cae-dda2-4dfd-9686-a7c67d6a07e8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="205" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>params</find>
+      <find>deptResult</find>
+      <find>selectUserVo</find>
+      <find>insertUser</find>
+      <find>deleteUserByIds</find>
+      <find>add</find>
+      <find>selectUserByLoginName</find>
+      <find>selectUserList</find>
+      <find>selectUserById</find>
+      <find>foreach</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1W2xDkAHhatbZoiUXDmBZ7DPHkR" />
+  <component name="PropertiesComponent">
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_ANNOTATION_PROCESSING_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="false" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\dong\spring-boot-samples-master\src\main\resources" />
+      <recent name="F:\dong\spring-boot-samples-master\src\main\resources\mybatis\mapper" />
+      <recent name="F:\dong\spring-boot-samples-master\src\main\resources\mybatis" />
+      <recent name="F:\dong\spring-boot-samples-master\src\main\java\com\boot\dao\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.boot.domain" />
+      <recent name="com.boot.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\dong\spring-boot-samples-master\src\main\resources\mybatis\config" />
+      <recent name="F:\dong\spring-boot-samples-master\src\main\resources\mybatis\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="DemoTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testSpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boot.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.boot.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.boot.Test.DemoTest" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testSpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boot.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.boot.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.boot.Test.DemoTest" />
+      <option name="METHOD_NAME" value="save" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.selectUserByIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testSpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boot.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.boot.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.boot.Test.DemoTest" />
+      <option name="METHOD_NAME" value="selectUserByIdTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.selectUserList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testSpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boot.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.boot.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.boot.Test.DemoTest" />
+      <option name="METHOD_NAME" value="selectUserList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.selectUserByIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testSpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boot.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.boot.serviceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.boot.serviceTest.UserServiceTest" />
+      <option name="METHOD_NAME" value="selectUserByIdTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="testSpringBoot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.boot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DemoTest.delete" />
+      <item itemvalue="JUnit.DemoTest.save" />
+      <item itemvalue="JUnit.DemoTest.selectUserByIdTest" />
+      <item itemvalue="JUnit.DemoTest.selectUserList" />
+      <item itemvalue="JUnit.UserServiceTest.selectUserByIdTest" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DemoTest.selectUserList" />
+        <item itemvalue="JUnit.DemoTest.delete" />
+        <item itemvalue="JUnit.DemoTest.save" />
+        <item itemvalue="JUnit.DemoTest.selectUserByIdTest" />
+        <item itemvalue="JUnit.UserServiceTest.selectUserByIdTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b14f6cae-dda2-4dfd-9686-a7c67d6a07e8" name="Default Changelist" comment="" />
+      <created>1563880143248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563880143248</updated>
+      <workItem from="1563880146966" duration="4024000" />
+      <workItem from="1563955150201" duration="2787000" />
+      <workItem from="1563959372179" duration="11409000" />
+      <workItem from="1564363435009" duration="622000" />
+      <workItem from="1564369447755" duration="9775000" />
+      <workItem from="1564554220124" duration="2295000" />
+      <workItem from="1564653582746" duration="4955000" />
+      <workItem from="1566522006122" duration="51000" />
+      <workItem from="1578361375101" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DemoTest_selectUserList - 2019.07.31 at 14h 25m 33s.xml">
+      <configuration name="DemoTest.selectUserList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_selectUserList - 2019.07.31 at 14h 30m 18s.xml">
+      <configuration name="DemoTest.selectUserList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_selectUserList - 2019.07.31 at 14h 41m 48s.xml">
+      <configuration name="DemoTest.selectUserList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_selectUserList - 2019.08.01 at 17h 59m 56s.xml">
+      <configuration name="DemoTest.selectUserList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_save - 2019.08.01 at 18h 16m 14s.xml">
+      <configuration name="DemoTest.save" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_selectUserList - 2019.08.01 at 18h 18m 38s.xml">
+      <configuration name="DemoTest.selectUserList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_delete - 2019.08.01 at 18h 50m 13s.xml">
+      <configuration name="DemoTest.delete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_delete - 2019.08.01 at 18h 59m 31s.xml">
+      <configuration name="DemoTest.delete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_delete - 2019.08.01 at 19h 00m 40s.xml">
+      <configuration name="DemoTest.delete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_selectUserList - 2019.08.01 at 19h 06m 44s.xml">
+      <configuration name="DemoTest.selectUserList" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_boot_samples_master$DemoTest_selectUserList.ic" NAME="DemoTest.selectUserList Coverage Results" MODIFIED="1564555302771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.boot.Test.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>testSpringBoot</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

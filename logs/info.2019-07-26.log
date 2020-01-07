@@ -1,0 +1,240 @@
+2019-07-26 10:35:09,555 [main] INFO  com.boot.serviceTest.UserServiceTest - Starting UserServiceTest on dongbenqiang-PC with PID 10864 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 10:35:09,556 [main] INFO  com.boot.serviceTest.UserServiceTest - No active profile set, falling back to default profiles: default
+2019-07-26 10:35:09,843 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1750fbeb: startup date [Fri Jul 26 10:35:09 CST 2019]; root of context hierarchy
+2019-07-26 10:35:11,450 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 10:35:12,993 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@1750fbeb: startup date [Fri Jul 26 10:35:09 CST 2019]; root of context hierarchy
+2019-07-26 10:35:13,054 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/]}" onto java.lang.String com.boot.web.MainController.home()
+2019-07-26 10:35:13,055 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user]}" onto public java.lang.String com.boot.web.UserController.getIndex(org.springframework.ui.Model)
+2019-07-26 10:35:13,057 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-07-26 10:35:13,057 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-26 10:35:13,079 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 10:35:13,079 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 10:35:13,107 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 10:35:13,659 [main] INFO  com.boot.serviceTest.UserServiceTest - Started UserServiceTest in 4.611 seconds (JVM running for 5.491)
+2019-07-26 10:35:14,459 [main] INFO  com.boot.serviceTest.UserServiceTest - 查找结果User [userId=10, userName=apple, userPassword=uih6, userEmail=ff@qq.com]
+2019-07-26 10:35:14,464 [Thread-2] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1750fbeb: startup date [Fri Jul 26 10:35:09 CST 2019]; root of context hierarchy
+2019-07-26 10:36:08,642 [main] INFO  com.boot.serviceTest.UserServiceTest - Starting UserServiceTest on dongbenqiang-PC with PID 20280 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 10:36:08,643 [main] INFO  com.boot.serviceTest.UserServiceTest - No active profile set, falling back to default profiles: default
+2019-07-26 10:36:08,799 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@5b247367: startup date [Fri Jul 26 10:36:08 CST 2019]; root of context hierarchy
+2019-07-26 10:36:08,885 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 10:36:10,274 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@5b247367: startup date [Fri Jul 26 10:36:08 CST 2019]; root of context hierarchy
+2019-07-26 10:36:10,348 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/]}" onto java.lang.String com.boot.web.MainController.home()
+2019-07-26 10:36:10,350 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user]}" onto public java.lang.String com.boot.web.UserController.getIndex(org.springframework.ui.Model)
+2019-07-26 10:36:10,352 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-07-26 10:36:10,352 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-26 10:36:10,384 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 10:36:10,384 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 10:36:10,428 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 10:36:11,023 [main] INFO  com.boot.serviceTest.UserServiceTest - Started UserServiceTest in 2.846 seconds (JVM running for 3.472)
+2019-07-26 10:36:11,414 [main] INFO  com.boot.serviceTest.UserServiceTest - 查找结果User [userId=10, userName=apple, userPassword=uih6, userEmail=ff@qq.com]
+2019-07-26 10:36:11,418 [Thread-2] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@5b247367: startup date [Fri Jul 26 10:36:08 CST 2019]; root of context hierarchy
+2019-07-26 10:44:03,243 [main] INFO  com.boot.serviceTest.UserServiceTest - Starting UserServiceTest on dongbenqiang-PC with PID 18712 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 10:44:03,247 [main] INFO  com.boot.serviceTest.UserServiceTest - No active profile set, falling back to default profiles: default
+2019-07-26 10:44:03,507 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@268f106e: startup date [Fri Jul 26 10:44:03 CST 2019]; root of context hierarchy
+2019-07-26 10:44:03,564 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 10:44:04,422 [main] INFO  o.s.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2019-07-26 10:45:15,356 [main] INFO  com.boot.serviceTest.UserServiceTest - Starting UserServiceTest on dongbenqiang-PC with PID 21004 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 10:45:15,357 [main] INFO  com.boot.serviceTest.UserServiceTest - No active profile set, falling back to default profiles: default
+2019-07-26 10:45:15,588 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@5ddeb7cb: startup date [Fri Jul 26 10:45:15 CST 2019]; root of context hierarchy
+2019-07-26 10:45:15,752 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 10:45:16,330 [main] INFO  o.s.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2019-07-26 10:47:14,973 [main] INFO  com.boot.serviceTest.UserServiceTest - Starting UserServiceTest on dongbenqiang-PC with PID 19056 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 10:47:14,976 [main] INFO  com.boot.serviceTest.UserServiceTest - No active profile set, falling back to default profiles: default
+2019-07-26 10:47:15,192 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@5ddeb7cb: startup date [Fri Jul 26 10:47:15 CST 2019]; root of context hierarchy
+2019-07-26 10:47:15,265 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 10:47:16,675 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@5ddeb7cb: startup date [Fri Jul 26 10:47:15 CST 2019]; root of context hierarchy
+2019-07-26 10:47:16,733 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/]}" onto java.lang.String com.boot.web.MainController.home()
+2019-07-26 10:47:16,734 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user]}" onto public java.lang.String com.boot.web.UserController.getIndex(org.springframework.ui.Model)
+2019-07-26 10:47:16,736 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-07-26 10:47:16,736 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-26 10:47:16,759 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 10:47:16,759 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 10:47:16,790 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 10:47:17,301 [main] INFO  com.boot.serviceTest.UserServiceTest - Started UserServiceTest in 2.82 seconds (JVM running for 3.391)
+2019-07-26 10:47:17,729 [main] INFO  com.boot.serviceTest.UserServiceTest - 查找结果User(userId=10, userName=apple, userPassword=uih6, userEmail=ff@qq.com)
+2019-07-26 10:47:17,734 [Thread-2] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@5ddeb7cb: startup date [Fri Jul 26 10:47:15 CST 2019]; root of context hierarchy
+2019-07-26 10:54:07,321 [main] INFO  com.boot.serviceTest.UserServiceTest - Starting UserServiceTest on dongbenqiang-PC with PID 16512 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 10:54:07,321 [main] INFO  com.boot.serviceTest.UserServiceTest - No active profile set, falling back to default profiles: default
+2019-07-26 10:54:07,482 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@5ddeb7cb: startup date [Fri Jul 26 10:54:07 CST 2019]; root of context hierarchy
+2019-07-26 10:54:07,614 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 10:54:09,017 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@5ddeb7cb: startup date [Fri Jul 26 10:54:07 CST 2019]; root of context hierarchy
+2019-07-26 10:54:09,077 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/]}" onto java.lang.String com.boot.web.MainController.home()
+2019-07-26 10:54:09,078 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user]}" onto public java.lang.String com.boot.web.UserController.getIndex(org.springframework.ui.Model)
+2019-07-26 10:54:09,079 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-07-26 10:54:09,079 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-26 10:54:09,100 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 10:54:09,100 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 10:54:09,130 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 10:54:09,638 [main] INFO  com.boot.serviceTest.UserServiceTest - Started UserServiceTest in 2.855 seconds (JVM running for 3.47)
+2019-07-26 10:54:10,013 [main] INFO  com.boot.serviceTest.UserServiceTest - 查找结果User(userId=10, userName=apple, userPassword=uih6, userEmail=ff@qq.com)
+2019-07-26 10:54:10,017 [Thread-2] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@5ddeb7cb: startup date [Fri Jul 26 10:54:07 CST 2019]; root of context hierarchy
+2019-07-26 13:53:51,827 [main] INFO  com.boot.serviceTest.DemoTest - Starting DemoTest on dongbenqiang-PC with PID 18416 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 13:53:51,863 [main] INFO  com.boot.serviceTest.DemoTest - No active profile set, falling back to default profiles: default
+2019-07-26 13:53:52,135 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@24569dba: startup date [Fri Jul 26 13:53:52 CST 2019]; root of context hierarchy
+2019-07-26 13:53:52,165 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 13:53:52,989 [main] INFO  o.s.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2019-07-26 13:55:35,117 [main] INFO  com.boot.serviceTest.DemoTest - Starting DemoTest on dongbenqiang-PC with PID 18648 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 13:55:35,118 [main] INFO  com.boot.serviceTest.DemoTest - No active profile set, falling back to default profiles: default
+2019-07-26 13:55:35,301 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@5ddeb7cb: startup date [Fri Jul 26 13:55:35 CST 2019]; root of context hierarchy
+2019-07-26 13:55:35,367 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 13:55:35,992 [main] INFO  o.s.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2019-07-26 13:56:37,682 [main] INFO  com.boot.serviceTest.DemoTest - Starting DemoTest on dongbenqiang-PC with PID 4684 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 13:56:37,683 [main] INFO  com.boot.serviceTest.DemoTest - No active profile set, falling back to default profiles: default
+2019-07-26 13:56:37,872 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@5ddeb7cb: startup date [Fri Jul 26 13:56:37 CST 2019]; root of context hierarchy
+2019-07-26 13:56:37,996 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 13:56:39,412 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@5ddeb7cb: startup date [Fri Jul 26 13:56:37 CST 2019]; root of context hierarchy
+2019-07-26 13:56:39,475 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/]}" onto java.lang.String com.boot.web.MainController.home()
+2019-07-26 13:56:39,476 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user]}" onto public java.lang.String com.boot.web.UserController.getIndex(org.springframework.ui.Model)
+2019-07-26 13:56:39,477 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-07-26 13:56:39,477 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-26 13:56:39,529 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 13:56:39,529 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 13:56:39,560 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 13:56:40,174 [main] INFO  com.boot.serviceTest.DemoTest - Started DemoTest in 2.889 seconds (JVM running for 3.446)
+2019-07-26 13:56:40,621 [main] INFO  com.boot.serviceTest.DemoTest - 查找结果User(userId=10, userName=apple, userPassword=uih6, userEmail=ff@qq.com)
+2019-07-26 13:56:40,628 [Thread-2] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@5ddeb7cb: startup date [Fri Jul 26 13:56:37 CST 2019]; root of context hierarchy
+2019-07-26 14:02:26,832 [main] INFO  com.boot.serviceTest.DemoTest - Starting DemoTest on dongbenqiang-PC with PID 18936 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 14:02:26,833 [main] INFO  com.boot.serviceTest.DemoTest - No active profile set, falling back to default profiles: default
+2019-07-26 14:02:27,004 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@7188af83: startup date [Fri Jul 26 14:02:27 CST 2019]; root of context hierarchy
+2019-07-26 14:02:27,102 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 14:02:28,382 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@7188af83: startup date [Fri Jul 26 14:02:27 CST 2019]; root of context hierarchy
+2019-07-26 14:02:28,433 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/]}" onto java.lang.String com.boot.web.MainController.home()
+2019-07-26 14:02:28,435 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user]}" onto public java.lang.String com.boot.web.UserController.getIndex(org.springframework.ui.Model)
+2019-07-26 14:02:28,436 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-07-26 14:02:28,436 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-26 14:02:28,457 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:02:28,457 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:02:28,489 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:02:28,962 [main] INFO  com.boot.serviceTest.DemoTest - Started DemoTest in 2.519 seconds (JVM running for 3.201)
+2019-07-26 14:02:29,332 [main] INFO  com.boot.serviceTest.DemoTest - 查找结果User(userId=10, userName=apple, userPassword=uih6, userEmail=ff@qq.com)
+2019-07-26 14:02:29,336 [Thread-2] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@7188af83: startup date [Fri Jul 26 14:02:27 CST 2019]; root of context hierarchy
+2019-07-26 14:04:09,597 [main] INFO  com.boot.serviceTest.DemoTest - Starting DemoTest on dongbenqiang-PC with PID 9196 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 14:04:09,601 [main] INFO  com.boot.serviceTest.DemoTest - No active profile set, falling back to default profiles: default
+2019-07-26 14:04:09,802 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@7188af83: startup date [Fri Jul 26 14:04:09 CST 2019]; root of context hierarchy
+2019-07-26 14:04:09,949 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 14:04:11,217 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@7188af83: startup date [Fri Jul 26 14:04:09 CST 2019]; root of context hierarchy
+2019-07-26 14:04:11,269 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/]}" onto java.lang.String com.boot.web.MainController.home()
+2019-07-26 14:04:11,270 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user]}" onto public java.lang.String com.boot.web.UserController.getIndex(org.springframework.ui.Model)
+2019-07-26 14:04:11,272 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-07-26 14:04:11,272 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-26 14:04:11,291 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:04:11,291 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:04:11,323 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:04:11,772 [main] INFO  com.boot.serviceTest.DemoTest - Started DemoTest in 2.549 seconds (JVM running for 3.103)
+2019-07-26 14:04:12,151 [main] INFO  com.boot.serviceTest.DemoTest - 查找结果User(userId=10, userName=apple, userPassword=uih6, userEmail=ff@qq.com)
+2019-07-26 14:04:12,155 [Thread-2] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@7188af83: startup date [Fri Jul 26 14:04:09 CST 2019]; root of context hierarchy
+2019-07-26 14:05:11,094 [main] INFO  com.boot.serviceTest.DemoTest - Starting DemoTest on dongbenqiang-PC with PID 13412 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 14:05:11,095 [main] INFO  com.boot.serviceTest.DemoTest - No active profile set, falling back to default profiles: default
+2019-07-26 14:05:11,313 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@7188af83: startup date [Fri Jul 26 14:05:11 CST 2019]; root of context hierarchy
+2019-07-26 14:05:11,400 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 14:05:12,715 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@7188af83: startup date [Fri Jul 26 14:05:11 CST 2019]; root of context hierarchy
+2019-07-26 14:05:12,761 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/]}" onto java.lang.String com.boot.web.MainController.home()
+2019-07-26 14:05:12,762 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user]}" onto public java.lang.String com.boot.web.UserController.getIndex(org.springframework.ui.Model)
+2019-07-26 14:05:12,763 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-07-26 14:05:12,763 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-26 14:05:12,783 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:05:12,784 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:05:12,814 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:05:13,248 [main] INFO  com.boot.serviceTest.DemoTest - Started DemoTest in 2.532 seconds (JVM running for 3.094)
+2019-07-26 14:05:13,612 [main] INFO  com.boot.serviceTest.DemoTest - 查找结果User(userId=10, userName=apple, userPassword=uih6, userEmail=ff@qq.com)
+2019-07-26 14:05:13,616 [Thread-2] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@7188af83: startup date [Fri Jul 26 14:05:11 CST 2019]; root of context hierarchy
+2019-07-26 14:06:17,017 [main] INFO  com.boot.serviceTest.DemoTest - Starting DemoTest on dongbenqiang-PC with PID 16684 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 14:06:17,019 [main] INFO  com.boot.serviceTest.DemoTest - No active profile set, falling back to default profiles: default
+2019-07-26 14:06:17,231 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@7188af83: startup date [Fri Jul 26 14:06:17 CST 2019]; root of context hierarchy
+2019-07-26 14:06:17,308 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 14:06:18,607 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@7188af83: startup date [Fri Jul 26 14:06:17 CST 2019]; root of context hierarchy
+2019-07-26 14:06:18,661 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/]}" onto java.lang.String com.boot.web.MainController.home()
+2019-07-26 14:06:18,663 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user]}" onto public java.lang.String com.boot.web.UserController.getIndex(org.springframework.ui.Model)
+2019-07-26 14:06:18,664 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-07-26 14:06:18,665 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-26 14:06:18,688 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:06:18,688 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:06:18,719 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:06:19,165 [main] INFO  com.boot.serviceTest.DemoTest - Started DemoTest in 2.54 seconds (JVM running for 3.098)
+2019-07-26 14:06:19,539 [main] INFO  com.boot.serviceTest.DemoTest - 查找结果User(userId=10, userName=apple, userPassword=uih6, userEmail=ff@qq.com)
+2019-07-26 14:06:19,543 [Thread-2] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@7188af83: startup date [Fri Jul 26 14:06:17 CST 2019]; root of context hierarchy
+2019-07-26 14:19:48,576 [main] INFO  com.boot.serviceTest.DemoTest - Starting DemoTest on dongbenqiang-PC with PID 9060 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 14:19:48,576 [main] INFO  com.boot.serviceTest.DemoTest - No active profile set, falling back to default profiles: default
+2019-07-26 14:19:48,815 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@7188af83: startup date [Fri Jul 26 14:19:48 CST 2019]; root of context hierarchy
+2019-07-26 14:19:49,100 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 14:19:50,358 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@7188af83: startup date [Fri Jul 26 14:19:48 CST 2019]; root of context hierarchy
+2019-07-26 14:19:50,406 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/]}" onto java.lang.String com.boot.web.MainController.home()
+2019-07-26 14:19:50,407 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user]}" onto public java.lang.String com.boot.web.UserController.getIndex(org.springframework.ui.Model)
+2019-07-26 14:19:50,408 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-07-26 14:19:50,408 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-26 14:19:50,429 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:19:50,429 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:19:50,457 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:19:50,951 [main] INFO  com.boot.serviceTest.DemoTest - Started DemoTest in 2.888 seconds (JVM running for 3.473)
+2019-07-26 14:19:51,348 [main] INFO  com.boot.serviceTest.DemoTest - 查找结果User(userId=10, userName=apple, userPassword=uih6, userEmail=ff@qq.com)
+2019-07-26 14:19:51,352 [Thread-2] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@7188af83: startup date [Fri Jul 26 14:19:48 CST 2019]; root of context hierarchy
+2019-07-26 14:43:14,864 [main] INFO  com.boot.Application - Starting Application on dongbenqiang-PC with PID 20728 (F:\dong\spring-boot-samples-master\target\classes started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 14:43:14,865 [main] INFO  com.boot.Application - No active profile set, falling back to default profiles: default
+2019-07-26 14:43:14,962 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 14:43:15,010 [main] INFO  o.s.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@6adbc9d: startup date [Fri Jul 26 14:43:15 CST 2019]; root of context hierarchy
+2019-07-26 14:43:15,803 [main] INFO  org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2019-07-26 14:43:15,810 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-07-26 14:43:15,811 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.23
+2019-07-26 14:43:15,899 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-07-26 14:43:15,900 [localhost-startStop-1] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 889 ms
+2019-07-26 14:43:15,997 [localhost-startStop-1] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2019-07-26 14:43:15,999 [localhost-startStop-1] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-07-26 14:43:16,000 [localhost-startStop-1] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-07-26 14:43:16,000 [localhost-startStop-1] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-07-26 14:43:16,000 [localhost-startStop-1] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2019-07-26 14:43:16,398 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@6adbc9d: startup date [Fri Jul 26 14:43:15 CST 2019]; root of context hierarchy
+2019-07-26 14:43:16,429 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/]}" onto java.lang.String com.boot.controllers.MainController.home()
+2019-07-26 14:43:16,431 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user]}" onto public java.lang.String com.boot.controllers.UserController.getIndex(org.springframework.ui.Model)
+2019-07-26 14:43:16,432 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-07-26 14:43:16,432 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-07-26 14:43:16,447 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:43:16,447 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:43:16,467 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-07-26 14:43:16,749 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2019-07-26 14:43:16,759 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-26 14:43:16,764 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-26 14:43:16,832 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-07-26 14:43:16,843 [main] INFO  org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2019-07-26 14:43:16,846 [main] INFO  com.boot.Application - Started Application in 2.229 seconds (JVM running for 2.683)
+2019-07-26 14:43:29,575 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-07-26 14:43:29,575 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+2019-07-26 14:43:29,590 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 15 ms
+2019-07-26 14:44:05,916 [http-nio-8080-exec-4] INFO  org.thymeleaf.TemplateEngine - [THYMELEAF] INITIALIZING TEMPLATE ENGINE
+2019-07-26 14:44:05,949 [http-nio-8080-exec-4] INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver - [THYMELEAF] INITIALIZING TEMPLATE RESOLVER: org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+2019-07-26 14:44:05,949 [http-nio-8080-exec-4] INFO  org.thymeleaf.templateresolver.AbstractTemplateResolver - [THYMELEAF] TEMPLATE RESOLVER INITIALIZED OK
+2019-07-26 14:44:05,949 [http-nio-8080-exec-4] INFO  org.thymeleaf.messageresolver.AbstractMessageResolver - [THYMELEAF] INITIALIZING MESSAGE RESOLVER: org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+2019-07-26 14:44:05,949 [http-nio-8080-exec-4] INFO  org.thymeleaf.messageresolver.AbstractMessageResolver - [THYMELEAF] MESSAGE RESOLVER INITIALIZED OK
+2019-07-26 14:44:05,952 [http-nio-8080-exec-4] INFO  org.thymeleaf.TemplateEngine.CONFIG - [THYMELEAF] TEMPLATE ENGINE CONFIGURATION:
+[THYMELEAF] * Cache Factory implementation: org.thymeleaf.cache.StandardCacheManager
+[THYMELEAF] * Template modes:
+[THYMELEAF]     * HTML5
+[THYMELEAF]     * XHTML
+[THYMELEAF]     * XML
+[THYMELEAF]     * VALIDXML
+[THYMELEAF]     * LEGACYHTML5
+[THYMELEAF]     * VALIDXHTML
+[THYMELEAF] * Template resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver
+[THYMELEAF] * Message resolvers (in order):
+[THYMELEAF]     * org.thymeleaf.spring4.messageresolver.SpringMessageResolver
+[THYMELEAF] * Dialect [1 of 2]: org.thymeleaf.spring4.dialect.SpringStandardDialect
+[THYMELEAF]     * Prefix: "th"
+[THYMELEAF] * Dialect [2 of 2]: nz.net.ultraq.thymeleaf.LayoutDialect
+[THYMELEAF]     * Prefix: "layout"
+[THYMELEAF] TEMPLATE ENGINE CONFIGURED OK
+2019-07-26 14:44:05,952 [http-nio-8080-exec-4] INFO  org.thymeleaf.TemplateEngine - [THYMELEAF] TEMPLATE ENGINE INITIALIZED
+2019-07-26 14:49:06,334 [main] INFO  com.boot.serviceTest.DemoTest - Starting DemoTest on dongbenqiang-PC with PID 17428 (started by Administrator in F:\dong\spring-boot-samples-master)
+2019-07-26 14:49:06,335 [main] INFO  com.boot.serviceTest.DemoTest - No active profile set, falling back to default profiles: default
+2019-07-26 14:49:06,563 [main] INFO  org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6440112d: startup date [Fri Jul 26 14:49:06 CST 2019]; root of context hierarchy
+2019-07-26 14:49:06,606 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2019-07-26 14:49:07,225 [main] INFO  o.s.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
